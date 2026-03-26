@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"npx tsc --project E:\\\\React_Workspace\\\\react-mfe-rspack-module-federation\\\\rspack-remote\\\\node_modules\\\\.federation\\\\tsconfig.a2a75daa1c04af1034070a0cb2bbb0dc.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "npx tsc --project E:\\React_Workspace\\react-mfe-rspack-module-federation\\rspack-remote\\node_modules\\.federation\\tsconfig.a2a75daa1c04af1034070a0cb2bbb0dc.json"
+    },
+    "timestamp": 1774503390008
+  }
+}
